@@ -20,8 +20,8 @@ RSL [Vídeo do Explicativo do método RSL](https://www.youtube.com/watch?v=zkaiU
     11. Definição do Portfólio Bibliográfico
 4. Leitura e Análise
 
-![Passo a passo das fases do RSL](imgs\Etapas_RSL.png)
 
+<img src="../imgs/Etapas_RSL.png" alt="drawing" width="600">
 
 ## Definição
 
