@@ -51,3 +51,15 @@ RSL [Vídeo do Explicativo do método RSL](https://www.youtube.com/watch?v=zkaiU
 - Compesa -> Colocar mais na água do que deveriam. De alumínio. Excesso de alumínio no corpo.
 - Caminhada -> Alzheimer e relação com caminhada.
 - Celular -> Uso de smartphones com a capacidade de risco de ter alzheimer. Finlandeses
+
+- Fazer pesquisa rápida & pesquisa pra mestrado do Kayo;
+
+
+- Aceitar: Tutorial, overview, whitepaper. Survey.
+Avaliar as listas de inclusão e exclusão.
+
+Avaliar os estudos de Alzheimer -> Como estão os estágios atuais de tratamento de azlheimer. Para tratar o avanço da doença. Canabidiol. 
+- Canabidiol tem mostrado resultados precisos de formar novos neurônios no hipocampo.
+- Quantas pessoas que fumavam maconha desde a adolescência tiveram alzheimer? Evidência disso?
+- Base de dados para detectar precocemente do alzheimer. Qual o remédio que está sendo atuado agora
+- Remédio "donanemab";
