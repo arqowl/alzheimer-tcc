@@ -35,3 +35,19 @@ RSL [Vídeo do Explicativo do método RSL](https://www.youtube.com/watch?v=zkaiU
 - Portfólio bibliográfico final composto por:
     1. *Corpus dinâmico*: Últimos 5 anos (estado da arte) aprox. 75% do corpus total
     2. *Corpus estático*: anterior aos últeimos 5 anos (autores de base) aprox. 25% de corpus total
+
+
+# simplificar a metolodogia mas manter o racional do motivo.
+- Focar na revisão rápida;
+
+- Procurar dentro do portal da católica. Como acessar base 3E da caps entrando pelo pelos periódicos da católica. Entra pelo site "duvidoso" e entra no site da CAPS. -> Falar com o pessoal da biblioteca.
+- Scielo. <- Pesquisar aqui>
+- Elsivier <- Pesquisar aqui também>
+- ACM  <- Tecnologia>
+- Springer <- Base de Tecnologia>
+
+- Proteínas -> TAU & Beta-amiloide.
+- O que leva a pessoa a ter alzheimer? Relação com alumínio?
+- Compesa -> Colocar mais na água do que deveriam. De alumínio. Excesso de alumínio no corpo.
+- Caminhada -> Alzheimer e relação com caminhada.
+- Celular -> Uso de smartphones com a capacidade de risco de ter alzheimer. Finlandeses
