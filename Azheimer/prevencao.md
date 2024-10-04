@@ -7,3 +7,9 @@ Endocannabinoid system tem o potencial de reparar neurodegenerativo. O que os re
 6) Estudo de deep learning sobre as retinas do Alzheimer: https://www.thelancet.com/journals/landig/article/PIIS2589-7500(22)00169-8/fulltext
 7) Revisão sistemática sobre alzheimer e inteligência artificial nos últimos 12 anos: https://pubmed.ncbi.nlm.nih.gov/35358720/
 8) Genes do Alzheimer: https://www.nature.com/articles/s42003-022-03068-7
+9) Quanto melhor se dorme, melhor a chance de não se ter alzheimer.
+11) Começar a escrever o projeto, mas sem se comprometer.
+12) não use o celular perto da cabeça (prevenção de alzheimer)
+13) Evolução do alzheimer com relação ao tempo e sintomas.
+14) Remédios que bloqueiam o avanço do alzheimer. 
+15) Cozimento em panelas de alumínio e alzheimer.
