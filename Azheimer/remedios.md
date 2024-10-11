@@ -31,3 +31,7 @@ Esse medicamento, aprovado em 2023, é um anticorpo monoclonal que atua de forma
 Pesquisas continuam a buscar tratamentos mais eficazes. Alguns outros medicamentos em fase de estudo estão focados em diferentes aspectos da doença, como a **proteína tau**, a **inflamação cerebral** e a **homeostase lipídica**.
 
 Esses medicamentos podem **aliviar os sintomas** e retardar a progressão da doença, mas a evolução do Alzheimer continua ocorrendo com o tempo. O tratamento geralmente é combinado com cuidados que envolvem uma abordagem multidisciplinar.
+
+
+# <Pesquisar o laboratório>
+

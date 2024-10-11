@@ -13,3 +13,7 @@ Endocannabinoid system tem o potencial de reparar neurodegenerativo. O que os re
 13) Evolução do alzheimer com relação ao tempo e sintomas.
 14) Remédios que bloqueiam o avanço do alzheimer. 
 15) Cozimento em panelas de alumínio e alzheimer.
+
+16) Movimento com os pés, levantando o calcanhar. Fisioterapia. Musculatura da perna e do pé estiver firme. Ela vai retardar e inibir o alzheimer. Os Músculos geram as substâncias que vão combater os antígenos. O sangue é agitado e bombeia pro cérebro, limpa os que são mortas. Como se fosse o Garbage Collection do Java. Oxigenação. 
+
+17) E se eu gerasse o mesmo sinal que gerasse o mesmo sinal que um músculo para movimentar um músculo. Tivesse uma IA. Que capturasse todos os sinais elétricos e saber o que sinal.
