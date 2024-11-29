@@ -45,6 +45,12 @@ RSL [Vídeo do Explicativo do método RSL](https://www.youtube.com/watch?v=zkaiU
 - Elsivier <- Pesquisar aqui também>
 - ACM  <- Tecnologia>
 - Springer <- Base de Tecnologia>
+1) PubMed: https://www.ncbi.nlm.nih.gov/pubmed - colocar "systematic review"
+2) Database of Abstracts of Reviews of Effects (DARE)
+3) Cochrane Database of Systematic Reviews (CDSR).
+- Pesquisar protocolos tbm:  PROSPERO  (International  Prospective  Register  of  Systematic  Reviews,  acessível  em: https://www.crd.york.ac.uk/PROS-PERO/).
+
+(computer science) AND (alzheimer) in the last 5 years
 
 - Proteínas -> TAU & Beta-amiloide.
 - O que leva a pessoa a ter alzheimer? Relação com alumínio?
